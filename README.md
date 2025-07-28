@@ -26,6 +26,13 @@ The primary database used for this analysis is "Cost de Carreras.xlsx" file wher
 ### Data Analysis
 To get the findings, dynamic tables and bar graphs were created for better understanding of the visualizations.
 
+<img width="871" height="563" alt="MujvsHomb" src="https://github.com/user-attachments/assets/02f21904-5928-4532-abef-d8073c2bc2ed" />
+
+<img width="905" height="490" alt="ChavoVsJovenes" src="https://github.com/user-attachments/assets/2f88eb8d-1536-4b04-b08b-80cc474555e9" />
+
+<img width="913" height="525" alt="Po" src="https://github.com/user-attachments/assets/f8d5d8c1-2284-4ec7-9761-61ec54827c7d" />
+
+
 ### Findings
 
 1. Woman dominate on Educational Career Field over Men
