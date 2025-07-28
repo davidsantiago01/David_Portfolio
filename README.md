@@ -1,5 +1,5 @@
 
-# Data Analytics Practice Projects
+# Excel Data Practice
 
 ### Table of Contents
 
