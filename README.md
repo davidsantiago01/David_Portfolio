@@ -1,8 +1,12 @@
 
 # Data Analytics Practice Projects
 
+### Table of Contents
+
+- [Project Overview](#project-overview)
+- [Recommendations](#recommendations)
 ### Project Overview
-The scope of this practice was to compare information and get insights:
+The scope of this practice was to compare information and get the following insights:
 
 - "Top 10 Careers with more Woman than Men" 
 - "Top 10 Careers with better paygrade based on experience" 
@@ -11,6 +15,25 @@ The scope of this practice was to compare information and get insights:
 ### Data Sources
 The primary database used for this analysis is "Cost de Carreras.xlsx" file where all Career data can be found
 
-###Tools
-- Excel (Data Cleaning)
-- Power BI (Reports)
+### Tools
+- Microsoft Excel 
+
+
+### Data Cleaning/Preparation
+1. Reading and deciding which information to present
+2. Select the desired information and creating norma tables
+
+### Data Analysis
+To get the findings, dynamic tables and bar graphs were created for better understanding of the visualizations.
+
+### Findings
+
+1. Woman dominate on Educational Career Field over Men
+2. STEM Careers were among the top 10 which Experiences plays a huge role on salary increase based of work experience.
+3. Ambiental, Natural Sciences and STEM Careers careers among the top 10 where PHD graduate improves salary.
+
+### Recommendations
+
+1. Money wise, STEM careers has the highest ROI. Natural Sciences like Ambiental Sciences, Minery, or Agronomy second the charts. Highly recommended for students seeking a quick ROI.
+2. Students to consider align personal preference and needs before taking Career decision.
+   
